@@ -230,16 +230,16 @@ The built files will be in the `dist` directory, ready for deployment.
 <div align="center">
 
 ### Game Start
-![Game Start](assets/game-start.png)
+![Game Start](game.png)
 
 ### In Progress
-![Game Progress](assets/game-progress.png)
+![Game Progress](progress.png)
 
 ### Victory with Confetti
-![Victory](assets/victory.png)
+![Victory](win.png)
 
 ### Game Over
-![Game Over](assets/game-over.png)
+![Game Over](lose.png)
 
 </div>
 
